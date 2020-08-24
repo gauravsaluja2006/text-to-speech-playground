@@ -1,0 +1,22 @@
+.synth-voices {
+    height: 100vh;
+    overflow: scroll;
+    padding-bottom: 10px;
+}
+
+.synth-voice {
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+
+.synth-voice.selected {
+    border: 1px solid #4CAF50;;
+}
+
+.checkmark {
+    font-size: 15px;
+    color: #4CAF50;
+}
