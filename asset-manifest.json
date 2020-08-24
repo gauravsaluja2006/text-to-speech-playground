@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-to-speech-playground/static/css/main.70931c9a.chunk.css",
+    "main.js": "/text-to-speech-playground/static/js/main.c979304f.chunk.js",
+    "main.js.map": "/text-to-speech-playground/static/js/main.c979304f.chunk.js.map",
+    "runtime-main.js": "/text-to-speech-playground/static/js/runtime-main.51d2b9dd.js",
+    "runtime-main.js.map": "/text-to-speech-playground/static/js/runtime-main.51d2b9dd.js.map",
+    "static/js/2.5c47d274.chunk.js": "/text-to-speech-playground/static/js/2.5c47d274.chunk.js",
+    "static/js/2.5c47d274.chunk.js.map": "/text-to-speech-playground/static/js/2.5c47d274.chunk.js.map",
+    "index.html": "/text-to-speech-playground/index.html",
+    "precache-manifest.43f7020aee2d115cd9dbcdfbcfb3d206.js": "/text-to-speech-playground/precache-manifest.43f7020aee2d115cd9dbcdfbcfb3d206.js",
+    "service-worker.js": "/text-to-speech-playground/service-worker.js",
+    "static/css/main.70931c9a.chunk.css.map": "/text-to-speech-playground/static/css/main.70931c9a.chunk.css.map",
+    "static/js/2.5c47d274.chunk.js.LICENSE.txt": "/text-to-speech-playground/static/js/2.5c47d274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d2b9dd.js",
+    "static/js/2.5c47d274.chunk.js",
+    "static/css/main.70931c9a.chunk.css",
+    "static/js/main.c979304f.chunk.js"
+  ]
+}
